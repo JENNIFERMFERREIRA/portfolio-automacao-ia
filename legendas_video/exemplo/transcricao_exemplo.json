@@ -1,0 +1,12 @@
+{"segments": [{"words": [
+  {"word": " Você", "start": 0.10, "end": 0.32},
+  {"word": " sabia", "start": 0.32, "end": 0.70},
+  {"word": " que", "start": 0.70, "end": 0.82},
+  {"word": " dá", "start": 0.82, "end": 1.00},
+  {"word": " para", "start": 1.00, "end": 1.20},
+  {"word": " automatizar", "start": 1.20, "end": 1.90},
+  {"word": " tarefas", "start": 1.90, "end": 2.40},
+  {"word": " repetitivas", "start": 2.40, "end": 3.10},
+  {"word": " com", "start": 3.10, "end": 3.30},
+  {"word": " Python?", "start": 3.30, "end": 3.90}
+]}]}
