@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+saida/
+relatorio_conciliacao.xlsx
+legendas.ass
+# nunca versionar dados reais
+dados_reais/
+*.env
